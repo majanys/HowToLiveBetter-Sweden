@@ -1,0 +1,8 @@
+interface:
+  display_name: "How to Live Better · 瑞典版"
+  short_description: "面向在瑞华人的生活决策技能，核实瑞典规则、比较成本收益并给出可执行步骤"
+  default_prompt: "使用 $sweden-life-guide，结合瑞典当前官方规则，帮我比较这项生活决策的成本、收益和行动顺序。"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  allow_implicit_invocation: false
