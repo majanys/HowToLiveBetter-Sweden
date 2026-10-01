@@ -1,0 +1,230 @@
+{
+  "version": "0.1.0",
+  "scope": "瑞典中文生活决策；官方规则需要使用时重新核实",
+  "sources": [
+    {
+      "id": "S01",
+      "title": "SOS Alarm · 112",
+      "url": "https://www.sosalarm.se/en/112-and-other-important-numbers/important-phone-numbers/112--swedens-emergency-number-for-urgent-assistance/",
+      "status": "checked_scope",
+      "checked_date": "2026-10-01",
+      "scope": "瑞典紧急求助号码及适用情形"
+    },
+    {
+      "id": "S02",
+      "title": "1177 · How healthcare works",
+      "url": "https://www.1177.se/en/Vastra-Gotaland/sa-fungerar-varden/att-valja-vardmottagning/sok-vard-pa-ratt-mottagning/",
+      "status": "checked_scope",
+      "checked_date": "2026-10-01",
+      "scope": "医疗分流、地区差异、医疗口译；页面地区 Västra Götaland，不移植该地区收费"
+    },
+    {
+      "id": "S03",
+      "title": "Försäkringskassan · Insured in Sweden",
+      "url": "https://www.forsakringskassan.se/english/moving-to-working-studying-or-newly-arrived-in-sweden/social-insurance-in-sweden/insured-in-sweden",
+      "status": "checked_scope",
+      "checked_date": "2026-10-01",
+      "scope": "国籍不自动决定社会保险资格，须判定居住与工作情况"
+    },
+    {
+      "id": "S04",
+      "title": "Försäkringskassan · SGI",
+      "url": "https://www.forsakringskassan.se/privatperson/sjukpenninggrundande-inkomst-sgi",
+      "status": "checked_scope",
+      "checked_date": "2026-10-01",
+      "scope": "失业时登记、积极求职与保持可就业状态的 SGI 保护要求"
+    },
+    {
+      "id": "S05",
+      "title": "Arbetsförmedlingen · First unemployed day",
+      "url": "https://arbetsformedlingen.se/for-arbetssokande/arbetslos---vad-hander-nu/skriv-in-dig-forsta-arbetslosa-dagen",
+      "status": "checked_scope",
+      "checked_date": "2026-10-01",
+      "scope": "失业首日登记及 SGI 保护"
+    },
+    {
+      "id": "S06",
+      "title": "Sveriges a-kassor · 2025 reform",
+      "url": "https://www.sverigesakassor.se/sv/om-oss/nyheter/ny-arbetsloshetsforsakring-galler-fran-1-oktober-2025",
+      "status": "checked_scope",
+      "checked_date": "2026-10-01",
+      "scope": "2025-10-01 起新规则基于收入及会员时间，既有给付期有过渡规则；行业联合机构"
+    },
+    {
+      "id": "S07",
+      "title": "Pensionsmyndigheten · Swedish pension system",
+      "url": "https://www.pensionsmyndigheten.se/other-languages/english-engelska/english-engelska/pension-system-in-sweden",
+      "status": "checked_scope",
+      "checked_date": "2026-10-01",
+      "scope": "公共养老金、职业养老金与私人储蓄；境外养老金和移居影响按项目区分"
+    },
+    {
+      "id": "S08",
+      "title": "Skatteverket · 2026 amounts",
+      "url": "https://www.skatteverket.se/privat/skatter/beloppochprocent/2026.4.1522bf3f19aea8075ba21.html",
+      "status": "checked_scope",
+      "checked_date": "2026-10-01",
+      "scope": "2026 ISK 等合并免税基数 300000 SEK；ISK 标准收入率 3.55%，对应税率 1.065%"
+    },
+    {
+      "id": "S09",
+      "title": "Skatteverket · Tax liability",
+      "url": "https://www.skatteverket.se/privat/skatter/arbeteochinkomst/sabeskattasdinlon/skattskyldighet.4.65fc817e1077c25b8328000206.html",
+      "status": "checked_scope",
+      "checked_date": "2026-10-01",
+      "scope": "无限纳税义务涵盖瑞典及境外收入，个案还需核实税收协定和例外"
+    },
+    {
+      "id": "S10",
+      "title": "Skatteverket · Double taxation",
+      "url": "https://www.skatteverket.se/privat/internationellt/dubbelbeskattning.4.58d555751259e4d661680008660.html",
+      "status": "checked_scope",
+      "checked_date": "2026-10-01",
+      "scope": "境外收入可能涉及两国纳税及避免双重征税机制"
+    },
+    {
+      "id": "S11",
+      "title": "Riksgälden · Deposit guarantee 2026",
+      "url": "https://www.riksgalden.se/press-och-publicerat/pressmeddelanden-och-nyheter/pressmeddelanden/2025/insattningsgarantins-maxbelopp-andras-till-1-150-000-kronor/",
+      "status": "checked_scope",
+      "checked_date": "2026-10-01",
+      "scope": "2026-01-01 起每人每机构最高普通存款保障 1150000 SEK"
+    },
+    {
+      "id": "S12",
+      "title": "Riksgälden · Deposit guarantee FAQ",
+      "url": "https://www.riksgalden.se/var-verksamhet/insattningsgarantin-och-investerarskyddet/sa-fungerar-insattningsgarantin/fragor-och-svar-om-insattningsgarantin/",
+      "status": "checked_scope",
+      "checked_date": "2026-10-01",
+      "scope": "本金及应计利息合计，按机构而不是品牌计算"
+    },
+    {
+      "id": "S13",
+      "title": "Government.se · Cohabitee relationships",
+      "url": "https://www.government.se/government-policy/family-law/cohabitee-relationships/",
+      "status": "checked_scope",
+      "checked_date": "2026-10-01",
+      "scope": "共同用途购入住房与家居物品的 sambo 分割范围及伴侣保护"
+    },
+    {
+      "id": "S14",
+      "title": "Riksdagen · Sambolag",
+      "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/sambolag-2003376_sfs-2003-376/",
+      "status": "checked_scope",
+      "checked_date": "2026-10-01",
+      "scope": "sambo 现行法原文入口；不能以共同登记或出资直接推定分割结果"
+    },
+    {
+      "id": "S15",
+      "title": "Sveriges Domstolar · Subletting bostadsrätt",
+      "url": "https://www.domstol.se/amnen/hyra-bostadsratt-och-arrende/bostadsratt/hyra-ut-bostadsratt-i-andra-hand/",
+      "status": "checked_scope",
+      "checked_date": "2026-10-01",
+      "scope": "BRF 同意或 hyresnämnden 许可的二手出租路径"
+    },
+    {
+      "id": "S16",
+      "title": "Sveriges Domstolar · Summer 2026 changes",
+      "url": "https://www.domstol.se/hogsta-forvaltningsdomstolen/amnen/hyra-bostadsratt-och-arrende/nya-regler-for-hyra-och-bostadsratt-sommaren-2026/",
+      "status": "checked_scope",
+      "checked_date": "2026-10-01",
+      "scope": "2026 年住房出租规则变化，回答时须核实合同类型与起始日"
+    },
+    {
+      "id": "S17",
+      "title": "Finansinspektionen · Fund fees",
+      "url": "https://www.fi.se/sv/for-konsumenter/spara/jamforelsetal-for-fondavgifter/",
+      "status": "checked_scope",
+      "checked_date": "2026-10-01",
+      "scope": "基金费用的长期影响，比较时不把假设收益当作保证"
+    },
+    {
+      "id": "S18",
+      "title": "Finansinspektionen · Fund knowledge",
+      "url": "https://www.fi.se/sv/publicerat/nyheter/2023/bristande-kunskap-om-fonder/",
+      "status": "checked_scope",
+      "checked_date": "2026-10-01",
+      "scope": "分散与低费用的消费者投资原则"
+    },
+    {
+      "id": "S19",
+      "title": "Migrationsverket · Job change or loss",
+      "url": "https://www.migrationsverket.se/en/you-have-a-permit-in-sweden/work/if-you-change-employer-or-profession-or-stop-working.html",
+      "status": "checked_scope",
+      "checked_date": "2026-10-01",
+      "scope": "工签持有人失业后的求职停留以许可证仍有效等条件为前提"
+    },
+    {
+      "id": "S20",
+      "title": "Verksamt · Sole trader taxes",
+      "url": "https://verksamt.se/skatter-avgifter/enskild-naringsverksamhet",
+      "status": "checked_scope",
+      "checked_date": "2026-10-01",
+      "scope": "F/FA-skatt、企业税费及增值税流程导航"
+    },
+    {
+      "id": "D01",
+      "title": "Øresunddirekt",
+      "url": "https://www.oresunddirekt.se/",
+      "status": "directory",
+      "checked_date": null,
+      "scope": "仅为后续检索入口，未核实任何个案资格、额度或期限"
+    },
+    {
+      "id": "D02",
+      "title": "minPension",
+      "url": "https://www.minpension.se/",
+      "status": "directory",
+      "checked_date": null,
+      "scope": "仅为后续检索入口，未核实任何个案资格、额度或期限"
+    },
+    {
+      "id": "D03",
+      "title": "Municipal services directory",
+      "url": "https://www.skr.se/",
+      "status": "directory",
+      "checked_date": null,
+      "scope": "仅为后续检索入口，未核实任何个案资格、额度或期限"
+    },
+    {
+      "id": "D04",
+      "title": "TRR",
+      "url": "https://www.trr.se/",
+      "status": "directory",
+      "checked_date": null,
+      "scope": "仅为后续检索入口，未核实任何个案资格、额度或期限"
+    },
+    {
+      "id": "D05",
+      "title": "CSN",
+      "url": "https://www.csn.se/",
+      "status": "directory",
+      "checked_date": null,
+      "scope": "仅为后续检索入口，未核实任何个案资格、额度或期限"
+    },
+    {
+      "id": "D06",
+      "title": "Konsumenternas",
+      "url": "https://www.konsumenternas.se/",
+      "status": "directory",
+      "checked_date": null,
+      "scope": "仅为后续检索入口，未核实任何个案资格、额度或期限"
+    },
+    {
+      "id": "S21",
+      "title": "IAF · Unemployment basic conditions",
+      "url": "https://www.iaf.se/lag-ratt/regelsamlingar/nya-forsakringsbestammelser-lag-2024506/kapitel-2----grundlaggande-forutsattningar-for-ratt-till-arbetsloshetsersattning/",
+      "status": "checked_scope",
+      "checked_date": "2026-10-01",
+      "scope": "离职补偿覆盖期不能领取失业金及期间计算规则；保留过渡规则核实"
+    },
+    {
+      "id": "S22",
+      "title": "Försäkringskassan · SGI guidance 2004:5",
+      "url": "https://www.forsakringskassan.se/download/18.7fc616c01814e179a9f6fd/1731412795333/sjukpenninggrundande-inkomst-och-arsarbetstid-vagledning-2004-5.pdf",
+      "status": "checked_scope",
+      "checked_date": "2026-10-01",
+      "scope": "通知期工资与离职补偿的 SGI 性质；使用时从主管机构核实最新版本"
+    }
+  ]
+}
